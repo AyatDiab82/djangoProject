@@ -1,2 +1,1 @@
-# djangoProject
-# COMP 474 Project
+# COMP 474 Project Manager
